@@ -1,0 +1,6 @@
+.idea
+venv
+ai_assistant_results
+dataset.csv
+embeddings.npy
+.env
